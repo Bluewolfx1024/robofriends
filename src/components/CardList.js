@@ -16,10 +16,12 @@ const CardList = ({ robots }) => {
 			/>
 			);
 		})
-		}
-		</div>
-	);
-}
+	} </div>
+		
+
+	)
+
+	 	}
 	
 
 
